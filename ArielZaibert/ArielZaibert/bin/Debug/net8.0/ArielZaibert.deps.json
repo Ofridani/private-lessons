@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArielZaibert/1.0.0": {
+        "runtime": {
+          "ArielZaibert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArielZaibert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

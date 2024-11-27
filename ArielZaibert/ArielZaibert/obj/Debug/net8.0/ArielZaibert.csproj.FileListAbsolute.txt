@@ -1,0 +1,14 @@
+C:\Users\uriti\repos\private-lessons\ArielZaibert\ArielZaibert\bin\Debug\net8.0\ArielZaibert.exe
+C:\Users\uriti\repos\private-lessons\ArielZaibert\ArielZaibert\bin\Debug\net8.0\ArielZaibert.deps.json
+C:\Users\uriti\repos\private-lessons\ArielZaibert\ArielZaibert\bin\Debug\net8.0\ArielZaibert.runtimeconfig.json
+C:\Users\uriti\repos\private-lessons\ArielZaibert\ArielZaibert\bin\Debug\net8.0\ArielZaibert.dll
+C:\Users\uriti\repos\private-lessons\ArielZaibert\ArielZaibert\bin\Debug\net8.0\ArielZaibert.pdb
+C:\Users\uriti\repos\private-lessons\ArielZaibert\ArielZaibert\obj\Debug\net8.0\ArielZaibert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uriti\repos\private-lessons\ArielZaibert\ArielZaibert\obj\Debug\net8.0\ArielZaibert.AssemblyInfoInputs.cache
+C:\Users\uriti\repos\private-lessons\ArielZaibert\ArielZaibert\obj\Debug\net8.0\ArielZaibert.AssemblyInfo.cs
+C:\Users\uriti\repos\private-lessons\ArielZaibert\ArielZaibert\obj\Debug\net8.0\ArielZaibert.csproj.CoreCompileInputs.cache
+C:\Users\uriti\repos\private-lessons\ArielZaibert\ArielZaibert\obj\Debug\net8.0\ArielZaibert.dll
+C:\Users\uriti\repos\private-lessons\ArielZaibert\ArielZaibert\obj\Debug\net8.0\refint\ArielZaibert.dll
+C:\Users\uriti\repos\private-lessons\ArielZaibert\ArielZaibert\obj\Debug\net8.0\ArielZaibert.pdb
+C:\Users\uriti\repos\private-lessons\ArielZaibert\ArielZaibert\obj\Debug\net8.0\ArielZaibert.genruntimeconfig.cache
+C:\Users\uriti\repos\private-lessons\ArielZaibert\ArielZaibert\obj\Debug\net8.0\ref\ArielZaibert.dll

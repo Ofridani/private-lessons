@@ -1,0 +1,14 @@
+C:\Users\uriti\repos\private-lessons\ArielZaibert4052\ArielZaibert4052\bin\Debug\net8.0\ArielZaibert4052.exe
+C:\Users\uriti\repos\private-lessons\ArielZaibert4052\ArielZaibert4052\bin\Debug\net8.0\ArielZaibert4052.deps.json
+C:\Users\uriti\repos\private-lessons\ArielZaibert4052\ArielZaibert4052\bin\Debug\net8.0\ArielZaibert4052.runtimeconfig.json
+C:\Users\uriti\repos\private-lessons\ArielZaibert4052\ArielZaibert4052\bin\Debug\net8.0\ArielZaibert4052.dll
+C:\Users\uriti\repos\private-lessons\ArielZaibert4052\ArielZaibert4052\bin\Debug\net8.0\ArielZaibert4052.pdb
+C:\Users\uriti\repos\private-lessons\ArielZaibert4052\ArielZaibert4052\obj\Debug\net8.0\ArielZaibert4052.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uriti\repos\private-lessons\ArielZaibert4052\ArielZaibert4052\obj\Debug\net8.0\ArielZaibert4052.AssemblyInfoInputs.cache
+C:\Users\uriti\repos\private-lessons\ArielZaibert4052\ArielZaibert4052\obj\Debug\net8.0\ArielZaibert4052.AssemblyInfo.cs
+C:\Users\uriti\repos\private-lessons\ArielZaibert4052\ArielZaibert4052\obj\Debug\net8.0\ArielZaibert4052.csproj.CoreCompileInputs.cache
+C:\Users\uriti\repos\private-lessons\ArielZaibert4052\ArielZaibert4052\obj\Debug\net8.0\ArielZaibert4052.dll
+C:\Users\uriti\repos\private-lessons\ArielZaibert4052\ArielZaibert4052\obj\Debug\net8.0\refint\ArielZaibert4052.dll
+C:\Users\uriti\repos\private-lessons\ArielZaibert4052\ArielZaibert4052\obj\Debug\net8.0\ArielZaibert4052.pdb
+C:\Users\uriti\repos\private-lessons\ArielZaibert4052\ArielZaibert4052\obj\Debug\net8.0\ArielZaibert4052.genruntimeconfig.cache
+C:\Users\uriti\repos\private-lessons\ArielZaibert4052\ArielZaibert4052\obj\Debug\net8.0\ref\ArielZaibert4052.dll
