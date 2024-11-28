@@ -1,0 +1,15 @@
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\bin\Debug\net8.0\RazShahmoon5.exe
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\bin\Debug\net8.0\RazShahmoon5.deps.json
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\bin\Debug\net8.0\RazShahmoon5.runtimeconfig.json
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\bin\Debug\net8.0\RazShahmoon5.dll
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\bin\Debug\net8.0\RazShahmoon5.pdb
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\obj\Debug\net8.0\RazShahmoon5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\obj\Debug\net8.0\RazShahmoon5.AssemblyInfoInputs.cache
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\obj\Debug\net8.0\RazShahmoon5.AssemblyInfo.cs
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\obj\Debug\net8.0\RazShahmoon5.csproj.CoreCompileInputs.cache
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\obj\Debug\net8.0\RazShahmoon5.sourcelink.json
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\obj\Debug\net8.0\RazShahmoon5.dll
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\obj\Debug\net8.0\refint\RazShahmoon5.dll
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\obj\Debug\net8.0\RazShahmoon5.pdb
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\obj\Debug\net8.0\RazShahmoon5.genruntimeconfig.cache
+C:\Users\uriti\repos\private-lessons\RazShahmoon5\RazShahmoon5\obj\Debug\net8.0\ref\RazShahmoon5.dll
