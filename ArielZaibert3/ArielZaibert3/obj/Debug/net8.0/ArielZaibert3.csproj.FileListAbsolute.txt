@@ -1,0 +1,15 @@
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\bin\Debug\net8.0\ArielZaibert3.exe
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\bin\Debug\net8.0\ArielZaibert3.deps.json
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\bin\Debug\net8.0\ArielZaibert3.runtimeconfig.json
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\bin\Debug\net8.0\ArielZaibert3.dll
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\bin\Debug\net8.0\ArielZaibert3.pdb
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\obj\Debug\net8.0\ArielZaibert3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\obj\Debug\net8.0\ArielZaibert3.AssemblyInfoInputs.cache
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\obj\Debug\net8.0\ArielZaibert3.AssemblyInfo.cs
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\obj\Debug\net8.0\ArielZaibert3.csproj.CoreCompileInputs.cache
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\obj\Debug\net8.0\ArielZaibert3.sourcelink.json
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\obj\Debug\net8.0\ArielZaibert3.dll
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\obj\Debug\net8.0\refint\ArielZaibert3.dll
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\obj\Debug\net8.0\ArielZaibert3.pdb
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\obj\Debug\net8.0\ArielZaibert3.genruntimeconfig.cache
+C:\Users\uriti\repos\private-lessons\ArielZaibert3\ArielZaibert3\obj\Debug\net8.0\ref\ArielZaibert3.dll
