@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uriti\\repos\\private-lessons\\OriWittlin\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD298A-9A27-4330-B34F-AEF363AD1065}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\uriti\\repos\\private-lessons\\oriwittlin\\consoleapp2\\consoleapp2\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{68DD298A-9A27-4330-B34F-AEF363AD1065}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD298A-9A27-4330-B34F-AEF363AD1065}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\uriti\\repos\\private-lessons\\oriwittlin\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DD298A-9A27-4330-B34F-AEF363AD1065}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "File.txt",
+              "DocumentMoniker": "C:\\Users\\uriti\\repos\\private-lessons\\OriWittlin\\ConsoleApp2\\ConsoleApp2\\File.txt",
+              "RelativeDocumentMoniker": "ConsoleApp2\\File.txt",
+              "ToolTip": "C:\\Users\\uriti\\repos\\private-lessons\\OriWittlin\\ConsoleApp2\\ConsoleApp2\\File.txt",
+              "RelativeToolTip": "ConsoleApp2\\File.txt",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-13T16:15:42.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uriti\\repos\\private-lessons\\OriWittlin\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\uriti\\repos\\private-lessons\\OriWittlin\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:09:27.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

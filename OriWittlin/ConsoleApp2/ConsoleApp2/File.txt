@@ -1,0 +1,44 @@
+public class Ride
+{
+	public virtual void GetDescription
+	{
+		Console.WriteLine($"Name of Ride: {this.Name}");
+		Console.WriteLine($"The minimum height to ride this ride is {this.MinHeight} and the 
+		maximum people this ride can contain is {this.MaxCapacity}");
+		if (this.IsOperational)
+			Console.WriteLine("The ride is operational")
+		else
+			Console.WriteLine("The ride is NOT operational!")
+	}
+}
+
+public class RollerCoaster
+{
+	public override void GetDescription()
+	{
+		base.GetDescription();
+		Console.WriteLine($"The Speed of the ride is {this.Speed} km/h");
+		if (this.HasLoops)
+			Console.WriteLine("This ride has loops");
+		else
+			Console.WriteLine("This ride does NOT have loops");
+	}
+}
+
+public class FerrisWheel
+{
+	public override void GetDescription()
+	{
+		base.GetDescription();
+
+	}
+}
+
+public class BumperCars
+{
+	public override void GetDescription()
+	{
+		base.GetDescription();
+	}
+}
+
